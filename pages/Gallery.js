@@ -1,4 +1,4 @@
-import Head from 'next/head'
+
 import Header from '@components/Header'
 import Navbar from '@components/Navbar'
 import Footer from '@components/Footer'
@@ -7,10 +7,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 export default function Gallery() {
     return (
       <div class="container">
-      <Head>
-        <title>Gallery</title>
-        <Navbar />
-      </Head>
+      <div className="header">
+      <title>Gallery</title>
+      <Navbar />
+    </div>
         <main>
         <Header title="Gallery" />
         <div className="row">

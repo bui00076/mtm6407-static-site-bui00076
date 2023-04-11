@@ -1,4 +1,4 @@
-import Head from 'next/head'
+
 import Navbar from '@components/Navbar'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
@@ -7,10 +7,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 export default function About() {
     return (
       <div className="container">
-      <Head>
-        <title>About</title>
-        <Navbar />
-      </Head>
+      <div className="header">
+      <title>About</title>
+      <Navbar />
+    </div>
         <main>
         <Header title="About Us" />
             <div className="row">

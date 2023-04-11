@@ -1,4 +1,4 @@
-import Head from 'next/head'
+
 import Navbar from '@components/Navbar'
 import Footer from '@components/Footer'
 import Table from '@components/Table'
@@ -7,10 +7,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 export default function Home() {
   return (
     <div className="container">
-    <Head>
+    <div className="header">
       <title>Home</title>
       <Navbar />
-    </Head>
+    </div>
       <main>
       <div className="bg-img">
       <img src="https://nail-issimo.com/wp-content/uploads/2017/12/manicures-billings-mt.jpg" className="img-fluid" alt="Wild Landscape" />

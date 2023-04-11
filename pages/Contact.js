@@ -1,4 +1,4 @@
-import Head from 'next/head'
+
 import Navbar from '@components/Navbar'
 import Footer from '@components/Footer'
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -6,10 +6,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 export default function Contact() {
     return (
       <div className="container">
-      <Head>
-        <title>Contact</title>
-        <Navbar />
-      </Head>
+      <div className="header">
+      <title>Contact</title>
+      <Navbar />
+    </div>
         <main>
   
 <section className="mb-4">
