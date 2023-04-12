@@ -16,17 +16,6 @@ body {
 .form-control {
   margin-bottom: 20px;
 }
-@media (max-width: 450px) {
-  .gallery {
-    -webkit-column-count: 1;
-    -moz-column-count: 1;
-    column-count: 1;
-    -webkit-column-width: 100%;
-    -moz-column-width: 100%;
-    column-width: 100%;
-  }
-}
-@media (min-width: 1200px) {
   .gallery {
     -webkit-column-count: 3;
     -moz-column-count: 3;
@@ -35,4 +24,3 @@ body {
     -moz-column-width: 33%;
     column-width: 33%;
   }
-}
