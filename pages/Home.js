@@ -13,7 +13,7 @@ export default function Home() {
     </div>
       <main>
       <div className="bg-img">
-      <img src="https://nail-issimo.com/wp-content/uploads/2017/12/manicures-billings-mt.jpg" className="img-fluid" alt="Wild Landscape" />
+      <img src="https://nail-issimo.com/wp-content/uploads/2017/12/manicures-billings-mt.jpg" className="img-fluid" alt="header" />
        </div>
        <div className="row">
           <h1>About Us</h1>
