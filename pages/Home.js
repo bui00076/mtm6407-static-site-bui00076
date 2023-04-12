@@ -15,7 +15,7 @@ export default function Home() {
       <div className="bg-img">
       <img src="https://nail-issimo.com/wp-content/uploads/2017/12/manicures-billings-mt.jpg" className="img-fluid" alt="header" />
        </div>
-       <div className="row gap-3">
+       <div className="row">
           <h1>About Us</h1>
               <div className="col">
               <img className="img-fluid" src="https://i.pinimg.com/564x/fc/be/a5/fcbea5d3523297ef2191ac35678bf37b.jpg" alt="Card image cap"/>
@@ -30,22 +30,22 @@ Our staff was trained to follow a proper sanitization protocol that puts our cus
           </div>
        <div class="row">
           <h1>Gallery</h1>
-          <div className="col-md-4">
+          <div className="col-md-4 p-2">
               <img className="img-fluid" src="https://i.pinimg.com/564x/39/86/cb/3986cb17f4e847a8b22dcd511965c1fb.jpg" alt="Card image cap" />
         </div>
-        <div className="col-md-4">
+        <div className="col-md-4 p-2">
               <img className="img-fluid" src="https://i.pinimg.com/564x/c7/d9/0a/c7d90ae9dc45f9b17ab678c34a1f3e78.jpg" alt="Card image cap"/>
         </div>
-        <div className="col-md-4">
+        <div className="col-md-4 p-2">
               <img className="img-fluid" src="https://i.pinimg.com/564x/cf/2a/90/cf2a905b643120b24501bc5084446ab2.jpg" alt="Card image cap"/>
         </div>
-        <div className="col-md-4">
+        <div className="col-md-4 p-2">
               <img className="img-fluid" src="https://i.pinimg.com/564x/4e/32/66/4e3266ac79aba758c8a7c20050b86398.jpg" alt="Card image cap"d/>
         </div>
-        <div className="col-md-4">
+        <div className="col-md-4 p-2">
               <img className="img-fluid" src="https://i.pinimg.com/736x/12/ca/10/12ca10e260cca299a17b17cd417d92b5.jpg" alt="Card image cap"/>
         </div>
-        <div className="col-md-4">
+        <div className="col-md-4 p-2">
               <img className="img-fluid" src="https://i.pinimg.com/736x/f2/cd/a7/f2cda7b01a9c5eb2f70fa77944300ae5.jpg" alt="Card image cap"/>
             </div>
       </div>
