@@ -24,7 +24,7 @@ export default function Gallery() {
               <img className="img-fluid" src="https://i.pinimg.com/564x/cf/2a/90/cf2a905b643120b24501bc5084446ab2.jpg" alt="Card image cap"/>
         </div>
         <div className="col-md-4">
-              <img className="img-fluid" src="https://i.pinimg.com/564x/26/95/d2/2695d286bfe8e945eb627e30d4cf4d35.jpg" alt="Card image cap"d/>
+              <img className="img-fluid" src="https://i.pinimg.com/564x/4e/32/66/4e3266ac79aba758c8a7c20050b86398.jpg" alt="Card image cap"d/>
         </div>
         <div className="col-md-4">
               <img className="img-fluid" src="https://i.pinimg.com/736x/12/ca/10/12ca10e260cca299a17b17cd417d92b5.jpg" alt="Card image cap"/>

@@ -15,7 +15,7 @@ export default function Home() {
       <div className="bg-img">
       <img src="https://nail-issimo.com/wp-content/uploads/2017/12/manicures-billings-mt.jpg" className="img-fluid" alt="header" />
        </div>
-       <div className="row">
+       <div className="row gap-3">
           <h1>About Us</h1>
               <div className="col">
               <img className="img-fluid" src="https://i.pinimg.com/564x/fc/be/a5/fcbea5d3523297ef2191ac35678bf37b.jpg" alt="Card image cap"/>
@@ -40,7 +40,7 @@ Our staff was trained to follow a proper sanitization protocol that puts our cus
               <img className="img-fluid" src="https://i.pinimg.com/564x/cf/2a/90/cf2a905b643120b24501bc5084446ab2.jpg" alt="Card image cap"/>
         </div>
         <div className="col-md-4">
-              <img className="img-fluid" src="https://i.pinimg.com/564x/26/95/d2/2695d286bfe8e945eb627e30d4cf4d35.jpg" alt="Card image cap"d/>
+              <img className="img-fluid" src="https://i.pinimg.com/564x/4e/32/66/4e3266ac79aba758c8a7c20050b86398.jpg" alt="Card image cap"d/>
         </div>
         <div className="col-md-4">
               <img className="img-fluid" src="https://i.pinimg.com/736x/12/ca/10/12ca10e260cca299a17b17cd417d92b5.jpg" alt="Card image cap"/>
