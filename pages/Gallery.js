@@ -14,7 +14,6 @@ export default function Gallery() {
         <main>
         <Header title="Gallery" />
         <div className="row">
-        <div class="col-md-6">
             <div className="col-md-4">
               <img className="img-fluid" src="https://i.pinimg.com/564x/39/86/cb/3986cb17f4e847a8b22dcd511965c1fb.jpg" alt="Card image cap" />
         </div>
@@ -33,7 +32,6 @@ export default function Gallery() {
         <div className="col-md-4">
               <img className="img-fluid" src="https://i.pinimg.com/736x/f2/cd/a7/f2cda7b01a9c5eb2f70fa77944300ae5.jpg" alt="Card image cap"/>
             </div>
-        </div>
         </div>
         </main>
         <Footer />
